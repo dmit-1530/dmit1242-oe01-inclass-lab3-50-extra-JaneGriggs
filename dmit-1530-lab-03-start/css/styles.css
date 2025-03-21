@@ -34,6 +34,54 @@ header {
     padding: 0.5rem;
 }
 
+h1 {
+    margin-bottom: 3rem;
+}
 
+svg {
+    max-width: 2rem;
+    position: absolute;
+
+
+}
+
+.notifications {
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 2rem;
+}
+
+.messages {
+    position: relative;
+    margin: 1rem auto 0 auto;
+    margin-bottom: 2rem;
+}
+
+.account {
+    position: relative;
+    margin: 1rem auto 0 auto;
+    margin-bottom: 2rem;
+}
+
+h4 {
+    margin-left: 4rem;
+    font-weight: 500;
+    font-size: 1.5rem;
+}
+
+span {
+    position: absolute;
+    left: 1rem;
+    bottom: .5rem;
+    border: 2px solid var(--rose-700);
+    background-color: var(--rose-700);
+    border-radius: 50%;
+    width: 2.1rem;
+    height: 2rem;
+    text-align: center;
+    color: var(--slate-50);
+
+}
+
+.
 /* Media Query */
-
